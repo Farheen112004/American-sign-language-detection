@@ -1,6 +1,5 @@
 # American-Sign-Language-Detection
-
-Steps to run the program:
+#Steps to run the program:
 1.Run collect_imgs.py
 Capture images for the dataset, such as sign language letters (A to Z), numbers (1 to 0), and some specific words.
 
