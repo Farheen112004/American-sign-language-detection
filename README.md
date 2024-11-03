@@ -1,4 +1,4 @@
-# American-Sign-Language-Detection
+# American-Sign-Language-Detection 
 
 **Steps to run the program:**
 
@@ -16,4 +16,4 @@ Start the webcam to detect and recognize sign language in real time.
 
 Once all steps are completed, you’ll see sign language actions detected and displayed through the webcam feed.
 
-Made with ❤️ by Farheen
+**Made with ❤️ by Farheen**
