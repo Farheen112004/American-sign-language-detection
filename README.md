@@ -17,3 +17,5 @@ Start the webcam to detect and recognize sign language in real time.
 Once all steps are completed, you’ll see sign language actions detected and displayed through the webcam feed.
 
 **Made with ❤️ by Farheen**
+
+ 
